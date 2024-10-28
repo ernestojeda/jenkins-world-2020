@@ -4,4 +4,4 @@ Presentation for Jenkins World 2020
 
 ## Links
 
-[Video](./HowToMockIt.mp4) | [Presentation](HowToMockIt_2020-DevOps-World.pptx)
+[Video](https://github.com/ernestojeda/jenkins-world-2020/raw/refs/heads/main/HowToMockIt.mp4) | [Presentation](https://github.com/ernestojeda/jenkins-world-2020/raw/refs/heads/main/HowToMockIt_2020-DevOps-World.pptx)
